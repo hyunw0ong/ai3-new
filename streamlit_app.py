@@ -76,26 +76,26 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
       labels[0]: {
        "texts": ["수수는", "둥글고", "적갈색 빛이 도는", "곡물이다"],
-       "images": ["https://dimg.donga.com/wps/SPORTS/IMAGE/2025/06/11/131786075.1.jpg", "https://img.sportsworldi.com/content/image/2024/07/24/20240724509732.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=Dvt7ZPL15xU"]
+       "images": ["https://www.queen.co.kr/news/photo/202206/377215_119940_5224.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBcTIa9SvhWlXhSN_ovBI5Ek79Ea6jfCb5Og&s"],
+       "videos": ["https://www.youtube.com/watch?v=6TRbh3w4Kxk"]
      },
     
       labels[1]: {
        "texts": ["기장은", "타원형의", "누런색을 띄는", "곡물이다"],
-       "images": ["https://news.nateimg.co.kr/orgImg/sw/2024/06/03/20240603509255.jpg", "https://sungyesa.com/new/data/file/secret/988486029_UV9Hq6Zt_IMG_8053.jpeg"],
-       "videos": ["https://www.youtube.com/watch?v=xKeZapgDlHA"]
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0okago2KyNuoqRJdES0bFEpQgb5v0jKzog&s",  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4806OwwXkK-q5EFECLi5MCh5-UEvl6Kehw&s"],
+       "videos": ["https://www.youtube.com/shorts/LQzByLiy758"]
      }, 
 
       labels[2]: {
        "texts": ["귀리는", "긴 타원형의", "연갈색을 띄는", "곡물이다"],
-       "images": ["https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2024/11/15/e99fbff9-1a19-492a-9bf6-0635321e9cad.jpg", "https://cdn.topstarnews.net/news/photo/202504/15627251_1531755_3130.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=RFz5XIEXxag&list=RDRFz5XIEXxag&start_radio=1"]
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_DixTFKNcfAWDr1ToTF7ci2x-EUFiI5eCVg&s", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVtUmS7O5QULBm_yg8-sd1JaE_bQtIu5yfvQ&s"],
+       "videos": ["https://www.youtube.com/shorts/AB4s1lmGUGw"]
      },
 
       labels[3]: {
-       "texts": ["카리나는", "이쁜", "한국여자다", "곡물이다"],
-       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJLyJANGH9FTTFgzH_8jCWyAynwLJk_OUpQ&s", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQednSodl5axLPiHxpbiV2MVOEEVILM-r7-NQ&s"],
-       "videos": ["https://www.youtube.com/watch?v=1U2vTeZklbw&list=RD1U2vTeZklbw&start_radio=1"]
+       "texts": ["호밀은", "길고 가느다란", "회갈색 빛을 띄는", "곡물이다"],
+       "images": ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAxMTRfMTUg%2FMDAxNjczNjY2MDc5NjQ0.Utn74wVFnWp0gm5nL0QjnRKynNjthyQAN9KOVpC4m1Eg.VW5wNQsBgS16Eg0Ej7HnZL0EgGp0eXVl4biquw2wIscg.JPEG.goodmorning0009%2FKakaoTalk_20230114_121137630.jpg&type=a340", "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA2MjBfODMg%2FMDAxNzE4ODUwNTkzMTcx.cb5RzhX47S-1pgNlpGcEWriA3ghrSEEHkQun_iDd7osg.1-WP5hWk0S1AjTvrCR0X0l3W5QpDxVmwhJfP742wBNkg.JPEG%2F20240613%25A3%25DF161243.jpg&type=a340"],
+       "videos": ["https://www.youtube.com/shorts/uBs1fPLeL6o"]
      },
 }
 
